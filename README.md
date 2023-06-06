@@ -15,3 +15,5 @@ To run our codes, first unzip the data.zip file and then change to the code dire
 python main.py
 ```
 
+## Evaluation Results
+![](./code/results.png)
