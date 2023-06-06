@@ -10,7 +10,7 @@ In this repository, we focus on the recommendation task on a subset of the famou
 
 We conduct all experiments in main.py. We also provide a brief reports to introduce our implementation details.
 
-To run our codes, change to the code directory and use the following command.
+To run our codes, first unzip the data.zip file and then change to the code directory and use the following command.
 ```
 python main.py
 ```
