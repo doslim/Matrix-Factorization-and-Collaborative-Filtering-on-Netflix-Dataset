@@ -22,6 +22,6 @@ def matrix_factorization(x_train, x_test, k=50, lamda=0.01, alpha=1e-4, epoch=10
                 lamda * pow(np.linalg.norm(U),2) + \
                 lamda * pow(np.linalg.norm(V),2)
         predict_score = np.dot(U, V.T)
-        RMSE[i] = np.sqrt(np.sum(pow((predict_score * indicator_test-x_test),2))/len(num_test))
+        RMSE[i] = np.sqrt(np.sum(pow((predict_score * indicator_test-x_test),2))/num_test)
 
     return U, V, J, RMSE
