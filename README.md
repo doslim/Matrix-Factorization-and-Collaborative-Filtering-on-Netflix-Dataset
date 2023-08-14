@@ -1,6 +1,6 @@
 # Matrix Factorization and Collaborative Filtering on Netflix Dataset
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Doslim.Matrix-Factorization-and-Collaborative-Filtering-on-Netflix-Dataset)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Doslim.Matrix-Factorization-and-Collaborative-Filtering-on-Netflix-Dataset)
 
 In this repository, we focus on the recommendation task on a subset of the famous Netflix competition. The selected dataset contains 10, 000 users and 10, 000 movies (items). 
 
